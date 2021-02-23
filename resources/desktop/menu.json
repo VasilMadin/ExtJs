@@ -1,0 +1,8 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Message", "iconCls": "x-fa fa-envelope", "xtype": "homeview", "leaf": true },
+    { "text": "Users", "iconCls": "x-fa fa-table", "xtype": "personnelview","leaf": true },
+    { "text": "Gallery", "iconCls": "x-fa fa-camera", "xtype": "gallery", "leaf": true }
+  ]
+}
